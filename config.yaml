@@ -1,0 +1,68 @@
+baseURL: /
+languageCode: en
+DefaultContentLanguage: en
+title: Website of Becki Green
+theme: anatole
+summarylength: 10
+enableEmoji: yes
+enableRobotsTXT: yes
+pygmentsUseClasses: yes
+pygmentsCodeFences: yes
+pygmentsCodefencesGuessSyntax: yes
+params:
+  author: Becki Green
+  customCss: ["css/custom.css"]
+  customJs: []
+  description: Neuroscience Research PhD Student, King's College London
+  displayMode: "dark"
+  doNotLoadAnimations: no
+  favicon: "favicons/"
+  images: 
+  keywords: ''
+  mainSections: ["About"]
+  math:
+    enable: no
+    use: katex
+  profilePicture: "images/RG_image.jpg"
+  simpleAnalytics: {}
+  socialIcons:
+    - icon: ai ai-orcid
+      title: Orcid
+      url: www.google.com
+    - icon: fab fa-linkedin
+      title: Linkedin
+      url: https://www.linkedin.com/in/rebecca-green-b8264b138/
+    - icon: fab fa-github
+      title: GitHub
+      url: https://github.com/beckigreen
+    - icon: fab fa-twitter
+      title: Twitter
+      url: https://twitter.com/becki_e_green
+    - icon: fas fa-envelope
+      title: e-mail
+      url: mailto:rebecca.e.green@kcl.ac.uk
+  title: Becki Green
+
+menu:
+  main:
+    - identifier: bio
+      name: About
+      url: /
+      weight: 300
+    - identifier: publications
+      name: Publications
+      url: /publications/
+      weight: 300
+    - identifier: presentations
+      name: Presentations
+      url: /presentations/
+      weight: 300
+    - identifier: cv
+      name: CV
+      url: /work/CV_RG.pdf
+      weight: 300
+    - identifier: coding
+      name: Coding Experience
+      url: /coding/
+      weight: 300
+

@@ -1,0 +1,38 @@
+---
+author: Becki Green
+description: Coding experience
+Type: main
+
+---
+
+#### COURSES
+*****************
+*****************
+Research Software Engineering, Alan Turing Institute (2 weeks, 2021) - **_Python, CSS, bash, git, GitHub_**
+
+Bayesian Statistics, Alan Turing Institute (1 day, 2020) - **_R, bash_**
+
+Exploring Molecular Pathways and Networks, King's College London (1 day, 2020) - **_R, cytoscape_**
+
+Prediction Modelling, King's College London (1 week, 2020) - **_R_**
+
+Mendelian Randomisation, Preconference course (2 days, 2020) - **_R_**
+
+Machine Learning, King's College London (1 week, 2020) - **_R, bash_**
+
+Introduction to high performance and high throughput computing, UCL (self taught, 2019) - **_bash_**
+
+Advanced Python for Biologists, External course (1 week, 2019) - **_Python_**
+
+...& many datacamp courses! 
+
+#### TEACHING
+*****************
+*****************
+Big Data module co-lead (2020) and teaching assistant (2019), BSc Psychology - **_Python_** (all teaching notebooks were expertly created by Jodie Lord and can be found [**here**](https://github.com/jodielord/python_teaching_material)).
+
+Research Methods, BSc Psychology (2019, 2020) - **_R, SPSS_**
+
+Mendelian randomisation workshop (2018, 2019), MSc Neuroscience - **_R_**
+
+Polygenic risk scores summer school (2019), King's College London - **_R, PRSice, plink, bash_**
