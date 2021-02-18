@@ -9,7 +9,7 @@ linkcolor: black
 *****************
 **Engage Student Showcase - Alan Turing Institute (Virtual London, Feb 2021)**
 
-[_Molecular underpinning of early dementia_](/work/Turing_2021.pdf)
+[_Molecular underpinnings of early dementia_](/work/Turing_2021.pdf)
 
 [![](/images/student_showcase_screenshot.png)](https://youtu.be/aXXbCma7EoU)
 
