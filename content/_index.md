@@ -9,7 +9,7 @@ Type: main
 
 *****************
 *****************
-Becki is a [NIHR Maudsley Biomedical Research Centre PhD student](https://www.maudsleybrc.nihr.ac.uk/) at King’s College London (Institute of Psychology, Psychiatry and Neuroscience) and [Enrichment student at the Alan Turing Institute](https://www.turing.ac.uk/work-turing/studentships/enrichment). As well as science and health care, she is passionate about sport, animals, and improving the wellbeing of others.
+Becki is a [NIHR Maudsley Biomedical Research Centre PhD student](https://www.maudsleybrc.nihr.ac.uk/) at King’s College London (Institute of Psychology, Psychiatry and Neuroscience) and [Engage (virtual Enrichment) student at the Alan Turing Institute](https://www.turing.ac.uk/work-turing/studentships/enrichment). As well as science and health care, she is passionate about sport, animals, and improving the wellbeing of others.
 
 Her current work looks at biological markers and risk factors of early dementia, and she is supervised by [Dr Petroula Proitsi](https://kclpure.kcl.ac.uk/portal/petroula.proitsi.html) and [Professor Marcus Richards](https://www.ucl.ac.uk/mental-health/people/professor-marcus-richards). She is particularly interested in omics data, machine learning, epidemiology, and causal inference.
 
