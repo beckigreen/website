@@ -7,6 +7,12 @@ linkcolor: black
 #### ORAL PRESENTATIONS
 *****************
 *****************
+**Engage Student Showcase - Alan Turing Institute (Virtual London, Feb 2021)**
+
+[_Molecular underpinning of early dementia_](/work/Turing_2021.pdf)
+
+[![](/images/student_showcase_screenshot.png)](https://youtu.be/aXXbCma7EoU)
+
 **Maurice Wohl Clinical Neuroscience Institute Centre Talk (Virtual London, Nov 2020)**
 
 [_Metabolic underpinnings of late midlife cognitive function in the MRC 1946 British Birth Cohort_](/work/WOHL_2020.pdf)
