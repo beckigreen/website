@@ -8,9 +8,11 @@ Type: main
 #### COURSES
 *****************
 *****************
+Data Skills for Open Research, UK Reproducibility Network (1 day, 2021) - **_Rmarkdown, git, GitHub_**
+
 Research Software Engineering, Alan Turing Institute (2 weeks, 2021) - **_Python, CSS, bash, git, GitHub_**
 
-Bayesian Statistics, Alan Turing Institute (1 day, 2020) - **_R, bash_**
+Bayesian Methods, Alan Turing Institute (1 day, 2020) - **_Python_**
 
 Exploring Molecular Pathways and Networks, King's College London (1 day, 2020) - **_R, cytoscape_**
 
