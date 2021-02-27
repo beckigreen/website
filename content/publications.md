@@ -6,6 +6,9 @@ Type: main
 #### PUBLICATIONS
 *****************
 *****************
+[Disentangling independent and mediated causal relationships between blood metabolites, cognitive factors, and Alzheimer’s Disease](https://www.medrxiv.org/content/10.1101/2021.02.12.21251409v1) _medRxiv (preprint)_ (2021)
+Jodie Lord, **Rebecca Green**, Shing Wan Choi, Christopher Hübel, Dag Aarsland, Latha Velayudhan, Pak Sham, Cristina Legido-Quigley, Marcus Richards, Richard Dobson, Petra Proitsi, the GERAD1 Consortium, AddNeuroMed
+
 [Metabolic correlates of late midlife cognitive function: findings from the 1946 British Birth Cohort](https://www.medrxiv.org/content/10.1101/2020.11.23.20236463v3) _medRxiv (preprint)_ (2020)
 
 **Rebecca Green**, Jodie Lord, Jin Xu, Jane Maddock, Min Kim, Richard Dobson, Cristina Legido-Quigley, Andrew Wong, Marcus Richards, Petroula Proitsi
