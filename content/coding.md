@@ -8,7 +8,9 @@ Type: main
 #### COURSES
 *****************
 *****************
-Data Skills for Open Research, UK Reproducibility Network (1 day, 2021) - **_Rmarkdown, git, GitHub_**
+The Turing Way Workshop, Alan Turing Institute (2 days, 2021) - **_GitHub, licensing, Binder, open science_**
+
+Data Skills for Open Research, UK Reproducibility Network (1 day, 2021) - **_Rmarkdown, git, GitHub, open science_**
 
 Research Software Engineering, Alan Turing Institute (2 weeks, 2021) - **_Python, CSS, bash, git, GitHub_**
 
