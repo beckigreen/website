@@ -6,6 +6,15 @@ Type: main
 #### PUBLICATIONS
 *****************
 *****************
+[Mendelian randomization identifies blood metabolites previously linked to midlife cognition as causal candidates in Alzheimer’s disease](https://www.pnas.org/content/118/16/e2009808118.short) _PNAS_ (2021)
+Jodie Lord, Bradley Jermy, **Rebecca Green**, Andrew Wong, Jin Xu, Cristina Legido-Quigley, Richard Dobson, Marcus Richards, Petroula Proitsi.
+
+[Assessing genetic overlap and causality between blood plasma proteins and Alzheimer’s Disease](https://www.medrxiv.org/content/10.1101/2021.04.21.21255751v1.article-info) _medRxiv (preprint)_ (2021)  
+Alex Handy, Jodie Lord, **Rebecca Green**, Jin Xu, Dag Aarsland, Latha Velayudhan, Abdul Hye, Richard Dobson, Petroula Proitsi, Add NeuroMed, and the GERAD1 Consortium.
+
+[Sex-specific metabolic pathways associate with Alzheimer’s Disease (AD) endophenotypes in the European Medical Information Framework for AD Multimodal Biomarker Discovery (EMIF-AD MBD) cohort](https://www.medrxiv.org/content/10.1101/2021.04.06.21254535v1) _medRxiv (preprint)_ (2021)
+Jin Xu, **Rebecca Green**, Min Kim, Jodie Lord, Amera Ebshiana, Sarah Westwood, Alison L Baird et al., 
+
 [Disentangling independent and mediated causal relationships between blood metabolites, cognitive factors, and Alzheimer’s Disease](https://www.medrxiv.org/content/10.1101/2021.02.12.21251409v1) _medRxiv (preprint)_ (2021)
 Jodie Lord, **Rebecca Green**, Shing Wan Choi, Christopher Hübel, Dag Aarsland, Latha Velayudhan, Pak Sham, Cristina Legido-Quigley, Marcus Richards, Richard Dobson, Petra Proitsi, the GERAD1 Consortium, AddNeuroMed
 
@@ -21,9 +30,6 @@ Jodie Lord, **Rebecca Green**, Shing Wan Choi, Christopher Hübel, Dag Aarsland,
 
 Jin Xu, Giulia Bankov, Min Kim, Asger Wretlind, Jodie Lord, **Rebecca Green**, Angela Hodges, Abdul Hye, Dag Aarsland, Latha Velayudhan, Richard J.B. Dobson, Petroula Proitsi, Cristina Legido-Quigley, on behalf of the AddNeuroMed Consortium 
 
-[Deciphering the causal relationship between blood metabolites and Alzheimers Disease: a Mendelian Randomization study](https://www.medrxiv.org/content/10.1101/2020.04.28.20083253v1) _medRxiv (preprint)_ (2020)
-
-Jodie Lord, Bradley Jermy, **Rebecca Green**, Andrew Wong, Jin Xu, Cristina Legido-Quigley, Richard Dobson, Marcus Richards, Petroula Proitsi.
 
 [S34Investigating the role of blood metabolites as biomarkers of cognitive function and dementia in the NSHD cohort](https://doi.org/10.1016/j.euroneuro.2019.08.035) (Conference Abstract) _European Journal of Neuropsychopharmacology_ (2019)
 
