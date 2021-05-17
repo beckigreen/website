@@ -8,11 +8,11 @@ Type: main
 #### COURSES
 *****************
 *****************
-The Turing Way Book Dash, Alan Turing Institute (1 week, 2021) - **_GitHub, open research**
+The Turing Way Book Dash, Alan Turing Institute (1 week, 2021) - **_GitHub, open research_**
 
-The Turing Way Workshop, Alan Turing Institute (2 days, 2021) - **_GitHub, licensing, Binder, open research**
+The Turing Way Workshop, Alan Turing Institute (2 days, 2021) - **_GitHub, licensing, Binder, open research_**
 
-Data Skills for Open Research, UK Reproducibility Network (1 day, 2021) - **_Rmarkdown, git, GitHub, open research**
+Data Skills for Open Research, UK Reproducibility Network (1 day, 2021) - **_Rmarkdown, git, GitHub, open research_**
 
 Research Software Engineering, Alan Turing Institute (2 weeks, 2021) - **_Python, CSS, bash, git, GitHub_**
 
