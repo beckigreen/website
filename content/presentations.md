@@ -7,6 +7,10 @@ linkcolor: black
 #### ORAL PRESENTATIONS
 *****************
 *****************
+**Turing student seminars - Alan Turing Institute (Virtual London, May 2021)**
+
+[_Investigating the metabolic underpinnings of early changes relevant to dementia_](/work/Turing_studentsem_2021.pdf)
+
 **Engage Student Showcase - Alan Turing Institute (Virtual London, Feb 2021)**
 
 [_Molecular underpinnings of early dementia_](/work/Turing_2021.pdf)
