@@ -59,7 +59,7 @@ menu:
       weight: 300
     - identifier: cv
       name: CV
-      url: /work/CV_RG.pdf
+      url: https://github.com/beckigreen/cv/blob/master/bgreen_cv.pdf
       weight: 300
     - identifier: coding
       name: Coding Experience
