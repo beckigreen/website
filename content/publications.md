@@ -7,6 +7,7 @@ Type: main
 *****************
 *****************
 [The Turing Way](https://doi.org/10.5281/zenodo.3233853) _The Turing Way Community_
+
 Cowrote [Creating Project Repositories](https://the-turing-way.netlify.app/project-design/project-repo.html) and virtual collaboration [WIP] chapters. Reviewed multiple chapters.
 
 [Assessing genetic overlap and causality between blood plasma proteins and Alzheimer’s Disease](https://doi.org/10.3233/JAD-210462) _Journal of Alzheimer’s Disease_ (2021)  
