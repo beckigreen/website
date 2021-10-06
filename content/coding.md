@@ -30,12 +30,13 @@ Introduction to high performance and high throughput computing, UCL (self taught
 
 Advanced Python for Biologists, External course (1 week, 2019) - **_Python_**
 
-...& many datacamp courses! 
 
 #### TEACHING
 *****************
 *****************
-Big Data module co-lead (2020) and teaching assistant (2019), BSc Psychology - **_Python_** (all teaching notebooks were expertly created by Jodie Lord and can be found [**here**](https://github.com/jodielord/python_teaching_material)).
+Big Data module lead (2021-22) and teaching assistant (2019-20), BSc Psychology - **_Python_** (all teaching notebooks were expertly created by Jodie Lord and can be found [**here**](https://github.com/jodielord/python_teaching_material)).
+
+Reproducible Reporting Using Markdown, DEMON Netork (2021) - **Markdown, GitHub, git**
 
 Research Methods, BSc Psychology (2019, 2020) - **_R, SPSS_**
 
