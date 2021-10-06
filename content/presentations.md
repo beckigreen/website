@@ -7,7 +7,9 @@ linkcolor: black
 #### ORAL PRESENTATIONS
 *****************
 *****************
-**Turing student seminars - Alan Turing Institute (Virtual London, May 2021)**
+**Turing Community Week - Alan Turing Institute (Virtual London, Sept 2021)**
+
+**Turing Student Seminars - Alan Turing Institute (Virtual London, May 2021)**
 
 [_Investigating the metabolic underpinnings of early changes relevant to dementia_](/work/Turing_studentsem_2021.pdf)
 
