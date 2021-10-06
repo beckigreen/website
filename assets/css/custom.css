@@ -5,5 +5,8 @@
 }
 
 html[data-theme='dark'] {
+    --heading-color: #f2eaea;
+    --body-color: #f2eaea;
     --bg-color: #171719;
 }
+
