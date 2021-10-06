@@ -16,7 +16,7 @@ Her current work looks at biological markers and risk factors of early dementia,
 Becki's academic career began in the field of biological sciences ([BSc](http://www.bristol.ac.uk/study/undergraduate/2021/physiology/bsc-physiology-science/) & [MSc](https://www.bristol.ac.uk/study/postgraduate/2021/life-sciences/msc-biomedical-sciences-research/), University of Bristol). Following this, she worked for the [NIHR Clinical Research Network](https://local.nihr.ac.uk/lcrn/west-of-england/) as a Clinical Research Assistant before being promoted to the role of Research Officer. Keen to learn more about statistical applications to mental health, she moved to London to undertake an [MSc at the SGDP Centre, King's College London](https://www.kcl.ac.uk/study/postgraduate/research-courses/social-genetic-and-developmental-psychiatry-mdres-mphil-phd); this lead to her PhD today, where she applies data science methods in the field of dementia  **:computer: :brain:**. 
 With a passion for data science and public health, Becki began the Turing Enrichment Scheme in Dec 2020 to broaden her perspectives in this field. 
 
-Becki regularly teaches for BSc and MSc courses, and leads the Big Data in Python Skill for BSc Psychology. She works as a freelance editor, and is a student representative at the Alan Turing Institute.
+Becki regularly teaches for BSc and MSc courses, and leads the Big Data in Python Skill for BSc Psychology.
 
 #### :mag_right:Find me on...
 
