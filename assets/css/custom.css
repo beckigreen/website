@@ -3,3 +3,7 @@
     letter-spacing: 1px;
     color: #2660ab;
 }
+
+html[data-theme='dark'] {
+    --bg-color: #171719;
+}
