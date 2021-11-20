@@ -7,6 +7,8 @@ linkcolor: black
 #### ORAL PRESENTATIONS
 *****************
 *****************
+**Leeds OMICS seminar - University of Leeds (Virtual Leeds, Dec 2021) [Invited speaker]**
+
 **Turing Community Week - Alan Turing Institute (Virtual London, Sept 2021)**
 
 **Turing Student Seminars - Alan Turing Institute (Virtual London, May 2021)**
@@ -31,9 +33,9 @@ _Do modifiable risk factors moderate the relationship between non-modifiable ris
 
 [_3 Minute Thesis_](/work/BRC_script_2020.pdf)
 
-**International Society of Clinical Biostatistics Annual Conference (Virtual Krakow, Aug 2020)**
+**International Society of Clinical Biostatistics Annual Conference (Virtual Krakow, Aug 2020) [Invited speaker]**
 
-_[Investigating the use of blood metabolites as biomarkers of early dementia](/work/ISCB_2020.pdf) (Invited speaker)_
+_[Investigating the use of blood metabolites as biomarkers of early dementia](/work/ISCB_2020.pdf)_
 
 **NIHR Maudsley BRC Annual Conference (London, Sept 2019)**
 
