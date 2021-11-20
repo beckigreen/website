@@ -8,6 +8,10 @@ Type: main
 #### COURSES
 *****************
 *****************
+Research Data Science, Alan Turing Institute (2 weeks, 2021) - **_GitHub, open_research, python_**
+
+Mendelian Randomisation, University of Cambridge (3 weeks, 2021) - **_R, MRBase_**
+
 The Turing Way Book Dash, Alan Turing Institute (1 week, 2021) - **_GitHub, open research_**
 
 The Turing Way Workshop, Alan Turing Institute (2 days, 2021) - **_GitHub, licensing, Binder, open research_**
