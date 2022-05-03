@@ -7,7 +7,9 @@ linkcolor: black
 #### ORAL PRESENTATIONS
 *****************
 *****************
-**Leeds OMICS seminar - University of Leeds (Virtual Leeds, Dec 2021) [Invited speaker]**
+**DEMON Network (Prevention Working Group) - Worldwide (Virtual, Feb 2022) [Invited speaker]**
+
+**Leeds OMICS Research in Progress seminar - University of Leeds (Virtual Leeds, Jan 2022) [Invited speaker]**
 
 **Turing Community Week - Alan Turing Institute (Virtual London, Sept 2021)**
 

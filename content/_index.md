@@ -32,8 +32,6 @@ Becki works with a fabulous team in the Proitsi Lab  :brain:. Please find their 
 
 **[Dr Petroula Proitsi](https://kclpure.kcl.ac.uk/portal/en/persons/petra-proitsi(20fb2030-d1cd-4700-9f46-3d1fbc2d3fe8).html)** - Alzheimer's Research UK Senior Fellow & [DEMON Network](http://demondementia.com/) Biomarkers Working Group Lead, [@petrouliet](https://twitter.com/petrouliet)
 
-**[Jodie Lord](https://jodielord.netlify.app)** - PhD Student - Multiomic predictors of Alzheimer's Disease, [@JodieLord5](https://twitter.com/JodieLord5)
-
 **[Lachlan Gilchrist](https://kclpure.kcl.ac.uk/portal/en/persons/lachlan-gilchrist(db3e2704-6f9f-469b-8f39-8eb55dcd6975).html)** - PhD Student - Investigating the presence of shared genetic and pathophysiological mechanisms between Major Depressive Disorder and dementia, [@lgilchrist1](https://twitter.com/lgilchrist1)
 
 **[Dr Jin Xu](https://kclpure.kcl.ac.uk/portal/jin.3.xu.html)** - Post Doc - Metabolomic/lipidomic markers of Alzheimer's Disease, [@JinXu2012](https://twitter.com/JinXu2012)

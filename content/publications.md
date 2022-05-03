@@ -6,8 +6,10 @@ Type: main
 #### PUBLICATIONS
 *****************
 *****************
+[Investigating associations between blood metabolites, later life brain imaging measures, and genetic risk for Alzheimer’s disease](https://doi.org/10.1101/2022.01.29.22270098) _Under review_ (2022)
+**Rebecca Green**, Jodie Lord, Marzia A Scelsi, Jin Xu, Andrew Wong, Sarah Naomi-James ... Petroula Proitsi.
 
-[Metabolic underpinnings of late midlife cognitive outcomes: findings from the 1946 British Birth Cohort](https://www.medrxiv.org/content/10.1101/2020.11.23.20236463v3) _Brain Communications_ (In Press)
+[Metabolic correlates of late midlife cognitive outcomes: findings from the 1946 British Birth Cohort](https://doi.org/10.1093/braincomms/fcab291) _Brain Communications_ (2022)
 **Rebecca Green**, Jodie Lord, Jin Xu, Jane Maddock, Min Kim, Richard Dobson ...Petroula Proitsi.
 
 ![](/work/workflow.png)
