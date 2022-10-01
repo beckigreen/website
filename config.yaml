@@ -13,7 +13,7 @@ params:
   author: Becki Green, PhD
   customCss: ["css/custom.css"]
   customJs: []
-  description: Postdoctoral Research Fellow, UCL (pronouns: she/her)
+  description: Postdoctoral Research Fellow, UCL (she/her)
   displayMode: "dark"
   doNotLoadAnimations: no
   favicon: "favicons/"
