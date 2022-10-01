@@ -59,6 +59,6 @@ menu:
       weight: 300
     - identifier: coding
       name: Skills & Teaching
-      url: /coding/
+      url: /skills/
       weight: 300
 
