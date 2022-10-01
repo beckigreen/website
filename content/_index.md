@@ -16,7 +16,7 @@ I completed my PhD in Neuroscience at the Institute of Psychiatry, Psychology an
 
 I was successful in applying for an [Enrichment scholarship at the Alan Turing Institute](https://www.turing.ac.uk/work-turing/studentships/enrichment); here, I contributed to several projects, upskilling in working with Electronic Health Record data, machine learning methods, and open science. I have an interest in contributing to the University community, and regularly ran seminars for BSc and MSc courses throughout my PhD. 
 
-#### :mag_right:Find me on...
+#### :mag_right: Find me on...
 
 [Twitter](http://twitter.com/becki_e_green)
 
