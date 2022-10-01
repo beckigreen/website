@@ -10,7 +10,7 @@ pygmentsUseClasses: yes
 pygmentsCodeFences: yes
 pygmentsCodefencesGuessSyntax: yes
 params:
-  author: Becki Green, PhD
+  author: Becki Green
   customCss: ["css/custom.css"]
   customJs: []
   description: Postdoctoral Research Fellow, UCL (she/her)
@@ -41,7 +41,7 @@ params:
     - icon: fas fa-envelope
       title: e-mail
       url: mailto:rebecca.e.green@ucl.ac.uk
-  title: Becki Green
+  title: Becki Green, PhD
 
 menu:
   main:
