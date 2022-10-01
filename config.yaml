@@ -10,10 +10,10 @@ pygmentsUseClasses: yes
 pygmentsCodeFences: yes
 pygmentsCodefencesGuessSyntax: yes
 params:
-  author: Becki Green
+  author: Becki Green, PhD
   customCss: ["css/custom.css"]
   customJs: []
-  description: Neuroscience Research PhD Student, King's College London
+  description: Postdoctoral Research Fellow, UCL (pronouns: she/her)
   displayMode: "dark"
   doNotLoadAnimations: no
   favicon: "favicons/"
@@ -40,7 +40,7 @@ params:
       url: https://twitter.com/becki_e_green
     - icon: fas fa-envelope
       title: e-mail
-      url: mailto:rebecca.e.green@kcl.ac.uk
+      url: mailto:rebecca.e.green@ucl.ac.uk
   title: Becki Green
 
 menu:
@@ -53,16 +53,12 @@ menu:
       name: Publications
       url: /publications/
       weight: 300
-    - identifier: presentations
-      name: Presentations
-      url: /presentations/
-      weight: 300
     - identifier: cv
       name: CV
       url: /work/bgreen_cv.pdf
       weight: 300
     - identifier: coding
-      name: Coding Experience
+      name: Skills & Teaching
       url: /coding/
       weight: 300
 
