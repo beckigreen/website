@@ -6,11 +6,10 @@ Type: main
 ---
 ### ABOUT
 
-
 *****************
 *****************
 
-I am a Postdoctoral Research Fellow at the MRC Unit for Lifelong Health and Ageing - UCL, interested in using statistical methods to better understand factors influencing health and disease  **:computer **. In my present role, I am investigating risk factors and consequences of common infections using population-based studies and electronic health record data. 
+I am a Postdoctoral Research Fellow at the MRC Unit for Lifelong Health and Ageing - UCL, interested in using statistical methods to better understand factors influencing health and disease  **:computer:**. In my present role, I am investigating risk factors and consequences of common infections using population-based studies and electronic health record data. 
 
 I am experienced in working with highly complex data and proficient in multiple coding languages (R, Python, SQL, bash). I enjoy contributing to the research community; I  have taught at workshops and Unviversity modules regularly for four years, including as lead for a 4-week BSc Python module. In addition to academia, my work history spans the NHS (Clinical Research Network), the Alan Turing Institute, and science writing/editing.
 
