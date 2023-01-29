@@ -9,13 +9,11 @@ Type: main
 *****************
 *****************
 
-I am a Postdoctoral Research Fellow at the MRC Unit for Lifelong Health and Ageing (UCL), interested in using statistical methods to better understand factors influencing health and disease  **:computer:**. I am currently investigating risk factors and consequences of common infections using population-based studies and electronic health record data. 
+I am a Postdoctoral Research Fellow at the [MRC Unit for Lifelong Health and Ageing](https://www.ucl.ac.uk/cardiovascular/research/population-science-and-experimental-medicine/mrc-unit-lifelong-health-and-ageing-ucl) (UCL), interested in using statistical methods to better understand factors influencing health and disease  **:computer:**. I am currently working with [Dr Dylan Williams](https://www.ucl.ac.uk/covid-19-longitudinal-health-wellbeing/dr-dylan-williams), investigating risk factors and consequences of common infections using population-based studies and electronic health record data. 
 
-I am experienced in working with highly complex data and proficient in multiple coding languages (R, Python, SQL, bash). I enjoy contributing to the research community and have regularly contributed to workshops and University modules for four years - including as lead for a 4-week BSc Python module. My work history spans the NHS (Clinical Research Network), the Alan Turing Institute, and science writing/editing.
+I am experienced in working with highly complex data and have extensive experience in R, Python, SQL, bash, and High Performance Computing. I am passionate about contributing to the research community and have regularly taught workshops and University modules, including as lead for a 4-week `Big Data in Python` module. My work history spans the [NHS (Clinical Research Network)](https://local.nihr.ac.uk/lcrn/west-of-england/), [The Alan Turing Institute](https://local.nihr.ac.uk/lcrn/west-of-england/), and [science writing/editing](https://jobs.cactusglobal.com/current-openings/freelance-specialist-editors).
 
-I completed my PhD in Neuroscience at the Institute of Psychiatry, Psychology and Neuroscience - King’s College London (Supervisors: Dr Petroula Proitsi and Professor Marcus Richards; Funders: [NIHR Maudsley Biomedical Research Centre](https://www.maudsleybrc.nihr.ac.uk/)). During this, I was successful in applying for an [Enrichment scholarship](https://www.turing.ac.uk/work-turing/studentships/enrichment) at the Alan Turing Institute where I upskilled in data science and software engineering.
-
-My CV can be found [here](https://beckigreen.netlify.app/work/bgreen_cv.pdf).
-
+I completed my PhD in Neuroscience at the Institute of Psychiatry, Psychology and Neuroscience - King’s College London (Supervisors: Dr Petroula Proitsi and Professor Marcus Richards; Funders: [NIHR Maudsley Biomedical Research Centre](https://www.maudsleybrc.nihr.ac.uk/)). During this, I was successful in applying for an [Enrichment scholarship](https://www.turing.ac.uk/work-turing/studentships/enrichment) at The Alan Turing Institute, upskilling in open science and research software engineering.
+	
 *******************************************************************
 *******************************************************************
