@@ -6,17 +6,16 @@ Type: main
 #### PUBLICATIONS
 *****************
 *****************
-[Multiomics profiling of human plasma and CSF reveals ATN derived networks and highlights causal links in Alzheimer’s disease](https://doi.org/10.1101/2022.08.05.22278457) _Alzheimer's and Dementia_ (in print)
+[Investigating associations between blood metabolites, later life brain imaging measures, and genetic risk for Alzheimer’s disease](https://doi.org/10.1186/s13195-023-01184-y) _Alzheimer's Research & Therapy_ (2023)
+**Rebecca Green**, Jodie Lord, Marzia A Scelsi, Jin Xu, Andrew Wong, Sarah Naomi-James ... Petroula Proitsi.
+
+[Multiomics profiling of human plasma and CSF reveals ATN derived networks and highlights causal links in Alzheimer’s disease](https://doi.org/10.1002/alz.12961) _Alzheimer's and Dementia_ (2023)
 Liu Shi, Jin Xu, **Rebecca Green**, Asger Wretlind, Jan Homann, Noel J. Buckley ... Cristina Legido-Quigley.
 
-
-[Investigating associations between blood metabolites, later life brain imaging measures, and genetic risk for Alzheimer’s disease](https://doi.org/10.1101/2022.01.29.22270098) _Under Review_ (2022)
-**Rebecca Green**, Jodie Lord, Marzia A Scelsi, Jin Xu, Andrew Wong, Sarah Naomi-James ... Petroula Proitsi.
+![](/work/workflow.jpg)
 
 [Metabolic correlates of late midlife cognitive outcomes: findings from the 1946 British Birth Cohort](https://doi.org/10.1093/braincomms/fcab291) _Brain Communications_ (2022)
 **Rebecca Green**, Jodie Lord, Jin Xu, Jane Maddock, Min Kim, Richard Dobson ...Petroula Proitsi.
-
-![](/work/workflow.png)
 
 [The Turing Way](https://doi.org/10.5281/zenodo.3233853) _The Turing Way Community_
 Cowrote [Creating Project Repositories](https://the-turing-way.netlify.app/project-design/project-repo.html) and virtual collaboration [WIP] chapters. Reviewed multiple chapters.
