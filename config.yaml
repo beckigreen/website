@@ -57,8 +57,4 @@ menu:
       name: CV
       url: /work/bgreen_cv.pdf
       weight: 300
-    - identifier: skills
-      name: Skills & Teaching
-      url: /skills/
-      weight: 300
-
+ 
