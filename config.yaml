@@ -26,7 +26,7 @@ params:
   profilePicture: "images/RG_image.jpg"
   simpleAnalytics: {}
   socialIcons:
-    - icon: ai ai-orcid
+    - icon: fab fa-orcid
       title: Orcid
       url: https://orcid.org/0000-0002-0513-5188
     - icon: fab fa-linkedin
